@@ -1,0 +1,3 @@
+RikkaApps/SaveCopy,0
+TeamNewPipe/NewPipe,0
+newhinton/disky,0

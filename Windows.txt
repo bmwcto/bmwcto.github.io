@@ -1,0 +1,8 @@
+sylikc/jpegview,3
+ShareX/ShareX,0
+coodesker/coodesker-desktop,0
+srwi/EverythingToolbar,0
+rizonesoft/Notepad3,1
+mifi/lossless-cut,11
+M2Team/NSudo,0
+M2Team/NanaZip,0

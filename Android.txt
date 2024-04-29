@@ -1,3 +1,5 @@
 RikkaApps/SaveCopy,0
 TeamNewPipe/NewPipe,0
 newhinton/disky,0
+mozilla-mobile/firefox-android,0
+markusfisch/BinaryEye,0

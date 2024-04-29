@@ -7,3 +7,5 @@ mifi/lossless-cut,11
 M2Team/NSudo,0
 M2Team/NanaZip,0
 fatedier/frp,12
+WinMerge/winmerge,9
+ventoy/Ventoy,3

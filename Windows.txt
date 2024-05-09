@@ -18,3 +18,4 @@ Qalculate/qalculate-gtk,2
 sabrogden/Ditto,2
 GyanD/codexffmpeg,2
 filebrowser/filebrowser,14
+obsproject/obs-studio,8

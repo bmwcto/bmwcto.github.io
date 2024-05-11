@@ -10,7 +10,7 @@ fatedier/frp,12
 WinMerge/winmerge,9
 ventoy/Ventoy,3
 pbatard/rufus,2
-HEU_KMS_Activator,0
+zbezj/heu_kms_activator,0
 svenstaro/miniserve,8
 BlackINT3/OpenArk,0
 Genymobile/scrcpy,2

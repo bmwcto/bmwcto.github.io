@@ -79,7 +79,7 @@ function generateList(containerId, dataString) {
 
         var li = document.createElement('li');
         var a = document.createElement('a');
-        a.textContent = '<a href=#>点击下载</a>' + xxx;
+        a.textContent = <a href=#> + '点击下载' + </a> + xxx;
         a.setAttribute('onclick', "github_download('" + xxx + "'," + yyy + ")");
         a.setAttribute('rel', 'noopener noreferrer');
         li.appendChild(a);

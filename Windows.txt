@@ -19,3 +19,4 @@ sabrogden/Ditto,2
 GyanD/codexffmpeg,2
 filebrowser/filebrowser,14
 obsproject/obs-studio,8
+taojy123/KeymouseGo,3

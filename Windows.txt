@@ -20,3 +20,4 @@ GyanD/codexffmpeg,2
 filebrowser/filebrowser,14
 obsproject/obs-studio,8
 taojy123/KeymouseGo,3
+phaselden/FlipIt,0

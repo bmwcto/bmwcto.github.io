@@ -28,3 +28,4 @@ NickeManarin/ScreenToGif,1
 MathewSachin/Captura,0
 rustdesk/rustdesk,19
 Teraskull/PyDebloatX,0
+differentrain/YasoCut,0

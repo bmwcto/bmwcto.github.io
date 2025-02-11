@@ -5,3 +5,4 @@ mozilla-mobile/firefox-android,0
 markusfisch/BinaryEye,0
 rustdesk/rustdesk,5
 beemdevelopment/Aegis,0
+o0HalfLife0o/TVBoxOSC,1

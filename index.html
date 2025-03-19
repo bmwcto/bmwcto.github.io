@@ -14,7 +14,8 @@ function download(option, urlOptions) {
 		if (this.readyState == 4 && this.status == 200) {
 			try {
 				var content = JSON.parse(xhttp.responseText);
-				var url = content.assets[option].browser_download_url;				
+				var url = content.assets[option].browser_download_url;		
+      url = url.replace("https://", "https://ghcy.eu.org/https://");		
 				window.location.replace(url);
 			} catch (error) {
 				download_error(urlOptions.error_link);

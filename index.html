@@ -15,7 +15,7 @@ function download(option, urlOptions) {
 			try {
 				var content = JSON.parse(xhttp.responseText);
 				var url = content.assets[option].browser_download_url;		
-      url = url.replace("https://", "https://ghcy.eu.org/https://");		
+      url = url.replace("https://","https://gh.cyao.workers.dev/https://");		
 				window.location.replace(url);
 			} catch (error) {
 				download_error(urlOptions.error_link);

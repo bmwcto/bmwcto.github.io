@@ -7,3 +7,4 @@ rustdesk/rustdesk,5
 beemdevelopment/Aegis,0
 o0HalfLife0o/TVBoxOSC,1
 o0HalfLife0o/TVBoxOSC,3
+gkd-kit/gkd,0

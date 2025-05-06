@@ -32,3 +32,4 @@ differentrain/YasoCut,0
 MeisApps/pcbu-desktop,3
 Genymobile/scrcpy,5
 GopeedLab/gopeed,9
+zero-peak/ZeroOmega,1

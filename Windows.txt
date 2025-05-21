@@ -35,3 +35,5 @@ GopeedLab/gopeed,9
 zero-peak/ZeroOmega,1
 imgdrive/Folder2ISO,0
 Greatwallcorner/TV-Multiplatform,5
+microsoft/edit,3
+Ftbom/Aria2Manager,0

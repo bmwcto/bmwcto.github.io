@@ -37,3 +37,4 @@ imgdrive/Folder2ISO,0
 Greatwallcorner/TV-Multiplatform,5
 microsoft/edit,3
 Ftbom/Aria2Manager,0
+PowerShell/Win32-OpenSSH,8

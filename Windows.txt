@@ -38,3 +38,4 @@ ventoy/Ventoy,3
 WinMerge/winmerge,9  
 zero-peak/ZeroOmega,1  
 zbezj/heu_kms_activator,0
+abbodi1406/vcredist,1

@@ -39,3 +39,8 @@ WinMerge/winmerge,9
 zero-peak/ZeroOmega,1  
 zbezj/heu_kms_activator,0
 abbodi1406/vcredist,1
+qarmin/czkawka,56
+ruvnet/RuView,0
+memstechtips/Winhance,0
+WinMTR/WinMTR-Official,0
+InterceptSuite/ProxyBridge,1

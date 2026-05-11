@@ -16,7 +16,9 @@ function download(option, urlOptions) {
 				var content = JSON.parse(xhttp.responseText);
 				var url = content.assets[option].browser_download_url;		
       //url = url.replace("https://","https://gh.cyao.workers.dev/https://");
-		url = url.replace("https://","https://ghcy.eu.org/https://");
+	  //url = url.replace("https://","https://ghcy.eu.org/https://");
+		url = url.replace("https://","https://gh-proxy.org/https://");
+				https://gh-proxy.org/
 				window.location.replace(url);
 			} catch (error) {
 				download_error(urlOptions.error_link);
